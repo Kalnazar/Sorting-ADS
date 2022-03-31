@@ -6,7 +6,7 @@ In this project, you can see the 4 most common sorts, these are <b>bubble sort</
 
 ### Time complexity of sorts
 
-#### Bubble Sort - O(n^{2})
-#### Heap Sort - O(n\log n)
-#### Merge Sort - O(n*log n)
-#### Quick Sort - O(n*log n)
+<b>Bubble Sort - O(n^{2}) </b>
+<b> Heap Sort - O(n\log n) </b>
+<b> Merge Sort - O(n*log n) </b>
+<b> Quick Sort - O(n*log n) </b>
